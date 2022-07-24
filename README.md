@@ -1,7 +1,7 @@
 # KeyCheck
 My way of practicing touch typing 😄
 <br>Star it if you like it.<br>
-Link to the webpage 🢂 
+Link to the webpage 🢂 https://moutasim02.github.io/KeyCheck/
 
 ## Screenshots
 **Default homepage**<br>
