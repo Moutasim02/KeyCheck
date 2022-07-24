@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>KeyCheck - Typing Game</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="overall">
+    <h1><i class="fa fa-keyboard-o"></i> KeyCheck</h1>
+    <h2>Practice your typing
+        <i class="fa fa-info-circle">
+            <span>
+                <ul>
+                    <li>Use with fullscreen (F11)</li>
+                    <li>Words are case-sensitive (A,z).</li>
+                    <li>Make sure to type symbols.</li>
+                    <li>Annotations are required.</li>
+                </ul>
+            </span>
+        </i>
+    </h2>
+    <p>Click start to have a quote as fast as you can!</p>
+    <p id="quote"></p>
+    <p id="message"></p>
+    <div>
+    <input type="text" aria-label="current word" id="typed-value" class="textField"/><br/>
+    <button id="start">Start</button>
+    </div>
+</div>
+    <script src="script.js"></script>
+</body>
+</html>
